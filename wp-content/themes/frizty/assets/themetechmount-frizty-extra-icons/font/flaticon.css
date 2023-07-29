@@ -1,0 +1,113 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/10/2020 08:31
+  	*/
+
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("./Flaticon.eot");
+	    src: url("./Flaticon.eot?#iefix") format("embedded-opentype"), url("./Flaticon.woff2") format("woff2"), url("./Flaticon.woff") format("woff"), url("./Flaticon.ttf") format("truetype"), url("./Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("./Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-size: 20px;
+	    font-style: normal;
+	    margin-left: 20px;
+	}
+
+	.flaticon-phone-call:before {
+	    content: "\f100";
+	}
+
+	.flaticon-email:before {
+	    content: "\f101";
+	}
+
+	.flaticon-list:before {
+	    content: "\f102";
+	}
+
+	.flaticon-plane:before {
+	    content: "\f103";
+	}
+
+	.flaticon-gift-box:before {
+	    content: "\f104";
+	}
+
+	.flaticon-magnifying-glass:before {
+	    content: "\f105";
+	}
+
+	.flaticon-phone:before {
+	    content: "\f106";
+	}
+
+	.flaticon-pawprint:before {
+	    content: "\f107";
+	}
+
+	.flaticon-send:before {
+	    content: "\f108";
+	}
+
+	.flaticon-clock-circular-outline:before {
+	    content: "\f109";
+	}
+
+	.flaticon-lock:before {
+	    content: "\f10a";
+	}
+
+	.flaticon-vet:before {
+	    content: "\f10b";
+	}
+
+	.flaticon-pet-food:before {
+	    content: "\f10c";
+	}
+
+	.flaticon-pet-care:before {
+	    content: "\f10d";
+	}
+
+	.flaticon-black-and-white-chat-bubbles:before {
+	    content: "\f10e";
+	}
+
+	.flaticon-live-chat:before {
+	    content: "\f10f";
+	}
+
+	.flaticon-user:before {
+	    content: "\f110";
+	}
+
+	.flaticon-chat:before {
+	    content: "\f111";
+	}
+
+	.flaticon-paper-plane:before {
+	    content: "\f112";
+	}
+
+	.flaticon-thumbs-up:before {
+	    content: "\f113";
+	}
+
+	.flaticon-multiple-users-silhouette:before {
+	    content: "\f114";
+	}
